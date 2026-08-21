@@ -1,4 +1,4 @@
-# When2Meet Extended
+# When2Meet Highlighter Extended
 A Chrome extension that makes it easier to compare the availability of multiple people on [When2Meet](https://www.when2meet.com).
 
 When2Meet Extended allows you to select one or more participants and visually see their availability. When multiple participants are selected, the times when **everyone selected is available** are highlighted with diagonal hatching.
