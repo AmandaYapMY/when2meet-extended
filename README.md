@@ -26,11 +26,12 @@ This extension makes it easier to identify these **specific groups of people and
 
 ### Developer Installation
 1. Download or clone this repository.
-2. Open `chrome://extensions` in Google Chrome.
-3. Enable **Developer mode**.
-4. Click **Load unpacked**.
-5. Select the project folder.
-6. Open or refresh a When2Meet event.
+2. Unzip the downloaded file. Make sure the folder contains 'manifest.json', and is not a parent or nested folder.
+3. Open `chrome://extensions` in Google Chrome.
+4. Enable **Developer mode**.
+5. Click **Load unpacked**.
+6. Select the project folder.
+7. Open or refresh a When2Meet event.
 
 ## How to Use
 
