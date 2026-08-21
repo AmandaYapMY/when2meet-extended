@@ -14,15 +14,12 @@ When2Meet Extended allows you to select one or more participants and visually se
 - Includes a legend explaining the overlap highlighting.
 
 ## Installation
-### Chrome Web Store
-**Chrome Web Store:** [Coming soon]
+### Chrome Web Store [Coming soon]
 1. Install the extension from the Chrome Web Store.
 2. Open a [When2Meet](https://www.when2meet.com) event.
 3. The extension will automatically appear on the page.
 
 ### Developer Installation
-If the extension is not yet available on the Chrome Web Store:
-
 1. Download or clone this repository.
 2. Open `chrome://extensions` in Google Chrome.
 3. Enable **Developer mode**.
