@@ -73,5 +73,4 @@ This project is built upon and inspired by [When2Meet Highlighter](https://githu
 The original project provides individual participant availability highlighting. This project extends the concept with multi-person selection, common availability highlighting, overlap hatching, and a reset function.
 
 ## Notes
-This extension is designed for the current version of the When2Meet website. Changes to When2Meet's page structure or JavaScript variables may require updates to the extension.<img width="1380" height="1047" alt="Screenshot 2026-08-21 165548" src="https://github.com/user-attachments/assets/d950682c-ae8f-4352-b8c6-7fd64e4a7ae5" />
-
+This extension is designed for the current version of the When2Meet website. Changes to When2Meet's page structure or JavaScript variables may require updates to the extension.
