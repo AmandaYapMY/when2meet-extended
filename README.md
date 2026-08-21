@@ -3,6 +3,11 @@ A Chrome extension that makes it easier to compare the availability of multiple 
 
 When2Meet Extended allows you to select one or more participants and visually see their availability. When multiple participants are selected, the times when **everyone selected is available** are highlighted with diagonal hatching.
 
+## When is this useful?
+When2Meet already shows the overall availability of everyone in a group. However, there may be situations where [**only certain people need to be available**] for a meeting or activity, while the overall group availability is still useful for other purposes.
+
+This extension makes it easier to identify these **specific groups of people and their common availability** without losing the original When2Meet group availability view.
+
 ## Features
 - Highlight an individual participant's availability.
 - Select multiple participants at the same time.
