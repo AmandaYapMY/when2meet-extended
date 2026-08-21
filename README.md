@@ -35,25 +35,25 @@ Once the extension is installed, participant names will appear below the When2Me
 
 When no names are selected, the schedule remains in the normal When2Meet view.
 
-![Default When2Meet view]
+**Default When2Meet view**
 <img width="1380" height="1047" alt="Screenshot 2026-08-21 165548" src="https://github.com/user-attachments/assets/8c0d2381-16ce-4386-bb4e-3eaf593a68dd" />
 
 ### One person selected
 Selecting one participant highlights the times when that person is available.
 
-![One person selected]
+**One person selected**
 <img width="1384" height="1036" alt="Screenshot 2026-08-21 165605" src="https://github.com/user-attachments/assets/78cf6e26-3ce3-4671-8d15-5c537c1b4436" />
 
 ### Two people selected
 Selecting two participants highlights their availability. The diagonal hatching indicates the times when **both selected participants are available**.
 
-![Two people selected]
+**Two people selected**
 <img width="1380" height="1066" alt="Screenshot 2026-08-21 165619" src="https://github.com/user-attachments/assets/81985a54-3a95-496b-beb1-49299f7a8c66" />
 
 ### Three people selected
 Selecting three participants highlights their availability. The diagonal hatching now only appears during times when **all three selected participants are available**.
 
-![Three people selected]
+**Three people selected**
 <img width="1380" height="1078" alt="Screenshot 2026-08-21 165632" src="https://github.com/user-attachments/assets/e0539cd5-61c3-4e7b-88a6-aec362794d4b" />
 
 The same behaviour applies when selecting more than three participants: the hatching only appears when **every selected participant is available**.
